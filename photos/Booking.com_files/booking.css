@@ -1,0 +1,280 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.div-2{
+    gap: 10px;
+    display: flex;
+    padding-top: -30px;
+    padding-inline-start:93px;
+    background-color:rgb(0,59,149);
+    width: 1049.5;
+    height: 65px;
+}
+.half-blue{
+    background-color:rgb(0,59,149);
+    width: 100%;
+    height: 70px;
+    display:flex; 
+    gap: 16px; 
+
+}
+.booking{
+   width: 100px;
+    padding: 25px;
+    color: rgb(255, 255, 255);
+   font-family:"Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 27px;
+    font-weight: 700;
+    line-height: 20px;
+    padding-inline-start: 90px;
+    padding-inline-end: 330px;
+}
+.main{
+    font-family:"Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    Font-size: 16px;
+    padding: 25px;
+    display:flex;
+    Font-weight: 500;
+    Line-height: 24px;
+    gap: 20px;
+    color:white ;
+}
+.main-1{
+    color: blue;
+    padding: 25px;
+}
+.a,.b{
+    color: blue;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10%;
+    border-color: blue;
+
+}
+.b2,.b3,.b4,.b5,.b6{
+
+    height: 40px;
+    gap: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    background-color:rgb(0,59,149);
+    color:rgb(255, 255, 255);
+    padding: 5px 10px 5px 10px;
+    padding-inline-start: 11px;
+    border: none;   
+}
+.b1{
+    height: 40px;
+    gap: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    background-color:rgb(0,59,149);
+    color:rgb(255, 255, 255);
+    padding: 5px 10px 5px 10px;
+    padding-inline-start: 11px;
+    border:1px solid white;  
+}
+.b2:hover,.b3:hover,.b4:hover,.b5:hover,.b6:hover{
+    background-color:rgb(23,75,156);
+}
+.div-3{
+    gap: 10px;
+    padding-top: -30px;
+    padding-inline-start:80px;
+    background-color:rgb(0,59,149);
+    width: 93%;
+    height: 194px;
+    
+}
+
+.next-1{
+    color: white;
+    padding-inline-start: 11px;
+}
+.next{
+    padding-inline-start: 11px;
+}
+h2{
+    padding-top: 10px;
+}
+.div-4{
+    width: 89%;
+    height: 48px;
+    padding-top:70px;
+    display: flex;
+    align-items: center;
+    padding-inline-start: 14px;
+}
+.g1,.g2,.g3{
+    background-color: white;
+    padding: 12px;
+    border-radius: 4px;
+    border: 4px solid rgb(255,183,0);
+    gap: 9px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    
+}
+.g4{
+    border-radius: 5px;
+    padding: 16px;
+    color: white;
+    border: 4px solid rgb(255,183,0);
+    background-color:rgb(0,59,149);
+    font-size: 15px;
+}
+.check{
+    display: flex;
+    padding-top: 15px;
+    gap: 5px;
+    padding-inline-start: 13px;
+}
+#ch-1{
+    
+    width: 20px;
+}
+.offers{
+    padding-top: 105px;
+    padding-inline-start: 100px;
+}
+.promo-1{
+    padding-inline-start: 80px;
+    margin-top: 20px;
+    display: flex;
+    gap:14px;
+}
+.fl1,.bo1{
+    font-family: "Blue Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    font-weight:700;
+    line-height:28px;
+    color: rgb(26, 26, 26);
+}
+.fl2,.bo2{
+    font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight:400;
+    line-height:20px;
+    color: rgb(26, 26, 26);
+    padding: 2px;
+    padding-bottom: 10px;
+}
+.fl3,.bo3{
+    border-radius: 5px;
+    border: none;
+    padding: 10px 16px;
+    color: white;
+    background-color: rgb(0,108,228);
+}
+.flight,.boys{
+    width: 467px;
+    padding: 9px;
+    border-radius: 5px;
+    border: 1px solid rgb(231,231,231);
+    display: flex;
+    
+}
+.img-2{
+    padding-top: 16px;
+}
+.dot{
+    height: 10px;
+    width: 10px;
+    background-color: rgb(0,108,228);
+    border-radius: 50%;  
+}
+.dot-1{
+    height: 60px;
+    width: 44%;
+    background-color: white;
+    padding-left: 569px;
+}
+
+
+/* .test{
+    gap: 10px;
+    display: flex;
+    padding-top: -30px;
+    padding-inline-start:80px;
+    background-color:rgb(255, 255, 255);
+    width: 100%;
+    height: 65px;
+}
+.t2,.t3,.t4,.t5,.t6{
+    height: 40px;
+    gap: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    background-color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    padding: 5px 10px 5px 10px;
+    border: none;   
+}
+.t1{
+    height: 40px;
+    gap: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    background-color:rgb(255, 255, 255);
+    color: rgb(0,108,228); 
+    padding: 5px 10px 5px 10px;
+    border:1px solid  rgb(0,108,228);  
+}
+.t2:hover,.t3:hover,.t4:hover,.t5:hover,.t6:hover{
+    background-color:rgb(219, 219, 219);
+} */
+.trending,.explore{ 
+    font-family: "Blue Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    font-weight:700;
+    line-height:28px;
+    padding-bottom: 5px;
+}
+.head,.head-1{
+    padding-inline-start: 80px;
+}
+.photos,.photos-1{
+    display: flex;
+    gap: 17px;
+    padding-inline-start: 80px;
+    margin-top: 17px;
+    margin-bottom: 20px;
+
+}
+.photo,.p1{
+    border-radius: 10px;
+}
+.photos-main{
+    width: 900px;
+    margin-top: 15px;
+    margin-left: 80px;
+    
+}
+.photos-2{
+    
+    display: grid;
+    grid-template-columns: repeat(6 ,auto);
+    grid-gap: 10px;
+    gap: 75px;
+}
+img{
+    border-radius: 5px;
+}
+.item{
+    width: 100px;
+    height: 100px;
+}
+
+
